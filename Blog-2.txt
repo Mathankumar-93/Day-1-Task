@@ -1,0 +1,21 @@
+ Objects and its internal representation in Javascript
+
+First of all, I would pin point that never be confused with JavaScript object and other language object concept they differ a lot internally. so, people who come from different language like Java/c++ they make a biggest mistake to compare with JavaScript object with others.
+
+Coming to the point,
+
+In simple terms. “A JavaScript object is a collection of named values having state and behavior (properties and method)”.
+
+For example: Person, car, pen, bike, Personal Computer , Washing Machine etc.
+1.In javascript object is a collection of key value pairs that represent properties of an entity.
+
+2.The keys are strings or symbols and the values can be any data type including other objects.
+
+3.The internal representation of an object in java script is called object structure or object layout.
+
+4.It designed to be fat and efficient for property lookups and other operations in objects.
+
+5.An object is a reference data type in the form of key:value pairs
+
+6.access the properties of an object with the simple dot notation.
+For Example: objectName.propertyName.

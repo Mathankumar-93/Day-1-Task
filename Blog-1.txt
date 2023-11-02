@@ -1,0 +1,18 @@
+HTTP stands for hypertext transfer protocol.
+
+              HTTP1.1
+
+1.Which is created in 1997.
+2.It loads resources one after the other,so if one resource cannot be loaded it blocks all the other resources.
+3.It compresses data by itself.
+4.It works on textual format.
+5.All the informations are in header file so its repeated every request.
+
+
+              HTTP/2
+
+1.which is created in 2015.
+2.It allows multiplexing so one TCP connection is enough for multiple requests.
+3.It uses HPACK for data compression.
+4.It works on binary protocol.
+5.It sends all other files likes CSS,JS without the request of client side using push frame.
